@@ -1,0 +1,27 @@
+[
+  {
+    "titlePrefix": "Tech Conf",
+    "description":"Sample text for event",
+    "city":"Hyderabad",
+    "venue":"sample venue",
+    "dateTime":"2027-06-15T10:00",
+    "price": "1500",
+    "totalSeats": "100",
+    "fullName": "Chin Triv",
+    "email": "rahul.student@example.com",
+    "phone": "9876543210"
+  },
+  {
+    "titlePrefix": "Sample Conf",
+    "description":"Test text for event",
+    "city":"Bengaluru",
+    "venue":"Test venue",
+    "dateTime":"2027-02-15T10:00",
+    "price": "1000",
+    "totalSeats": "200",
+    "fullName": "Chinmay Trievdi",
+    "email": "rahul.student@gmail.com",
+    "phone": "9876003000"
+  }
+
+]
